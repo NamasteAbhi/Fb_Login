@@ -2,11 +2,6 @@ import time
 import requests
 from urllib.parse import urlencode
 
-# Telegram
-
-# @NamasteHacker
-
-
 Email=input('Enter Your Email : ')
 Password=input('Enter Your PassWord : ')
 
