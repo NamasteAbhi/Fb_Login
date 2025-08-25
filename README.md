@@ -5,8 +5,4 @@ This Is Basic Source Code For Educational Purpose
 
 You Can Develop This Code According Your Use 
 
-# Telegram
-
-https://t.me/namastehackers
-
 # No Selenium Shit
